@@ -1,0 +1,8 @@
+sass:
+  sass_dir: css
+  style: compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - setup.rb
