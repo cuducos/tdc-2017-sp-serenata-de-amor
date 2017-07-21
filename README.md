@@ -7,8 +7,7 @@ Slides da palestra apresentada por [@cuducos](https://github.com/cuducos) e [@li
 Requer [Ruby](https://www.ruby-lang.org/) com [Bundler](http://bundler.io):
 ```
 $ bundle install
-$ ./setup.rb
-$ jekyll s
+$ bundle exec jekyll serve
 ```
 
 E veja os slides no navegador: [`http://localhost:4000`](http://localhost:4000).
